@@ -1,0 +1,23 @@
+name: 'Josue Sanchez '
+favicon: null
+layout_spectrum: 0.646027306560427
+typography_spectrum: 0.5989263476803899
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7495742270257324
+  lightness: 0.26138075604103506
+  saturation: 0.0024846491869539022
+  rhythmicContrast: 0.172684634802863
+purpose: []
