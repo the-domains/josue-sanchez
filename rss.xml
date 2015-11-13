@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Josue Sanchez]]></title>
+        <description><![CDATA[Josue Sanchez]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 Nov 2015 10:14:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SMYLE]]></title>
+            <description><![CDATA[<article><h1>SMYLE</h1><p>if SMYLE is to SMILE, what would be to PEACE?</p></article>]]></description>
+            <link>undefinedsmyle/index.html</link>
+            <guid isPermaLink="false">95dacd4c-33d9-4d37-ac74-7222f2107554</guid>
+            <pubDate>Fri, 13 Nov 2015 00:09:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
